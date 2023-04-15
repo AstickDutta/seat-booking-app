@@ -6,7 +6,7 @@ Node.js
 Express.js
 MongoDB
 Installation
-Clone the repository: git clone https://github.com/your-username/book-my-seat.git
+Clone the repository: git clone https://github.com/AstickDutta/seat-booking-app 
 Navigate to the project directory: cd book-my-seat
 Install the dependencies: npm install
 Start the server: npm start
