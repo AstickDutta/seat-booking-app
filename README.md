@@ -10,7 +10,7 @@ Clone the repository: git clone https://github.com/AstickDutta/seat-booking-app
 Navigate to the project directory: cd book-my-seat
 Install the dependencies: npm install
 Start the server: npm start
-Open http://localhost:3000 in your web browser to access the application.
+Open http://localhost:5000 in your web browser to access the application.
 Usage
 The "Book My Seat" system provides the following functionality:
 
